@@ -9,9 +9,9 @@ This project is a Python implementation of the Caesar Cipher, a simple encryptio
 - **User-Friendly Interface**: Simple input prompts for a seamless user experience.
 
 ## Usage
-Clone this repository and run the `caesar_cipher.py` script. You will be prompted to enter a message, shift value, and mode (encrypt/decrypt).
+Clone this repository and run the `caesar_cipher.py` script. You will be prompted to enter a message and shift value.
 
 ```bash
-git clone https://github.com/zoecyber001/PRODIGY_CS_01
+git clone https://github.com/zoecyber001/PRODIGY_CS_01.git
 cd Caesar-Cipher
 python caesar_cipher.py
